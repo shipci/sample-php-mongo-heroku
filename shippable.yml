@@ -6,7 +6,7 @@ services:
 
 env:
   global:
-    - APP_NAME=obscure-citadel
+    - APP_NAME=samplephpmongo
     - MONGOLAB_URI=mongodb://localhost/test
     - secure: efYFCttwJjf0HecqXMd99MUBQJhiJmZCjGG6xwj1e2wJ9jzjhiXg0z5cKSdzDHt/umSZWQKg5WsJ4lGBJjZOslaOBOOpp1uydJB+XFO6C40eRnlgh7RA+2wTgZOp6GRpsbLDckFDQFPE2yiDgtNjF2Nun4ugv0AfadQTvd/TQhMGFMl5u72VE85mqxyDEeetm/J/HMzyKQsRhfGrTbhQU5F6WgDCV3jyj8NaBTGl/BwkFg9KWxZTbvulI+nWDuHc3Fiiv+W6IgWgIU1K8cgekwN4uPOJHaxWcT3LALS7WZfgarSBfmDJg4KCmmob1C0SRXSK2oQAo0nBImgMzQuj9Q== #prod
     - secure: MRuHkLbL9HPkJPU5lzkKM1+NOq1S5RrhxEyhJkk60xxYiF7DMzydiBN8oFBjWrSmyGeGRuEC22a0I5ItobdWVszfcJCaXHwtfKzfGOUdKuyCnDgvojXhv/jrBvULyLK6zsLw3b8NMxdnwNsHqSPm19qW/EIGEl9Zv/637Igos69z9aT7+xrEG013+6HtKYb8RHm+iPSNsFoBi/RSAHYuM1eLTZWG2WAkjgzZaYmrHCgNwVmk+HOGR+TOWN7Iu5lrjyvC1XDCQrOvo1hZI30cd9OqJ5aadFm3exQpNhI4I7AgOnCbK3NoWNc/GAnqKXCvsaIQ80Jd/uLIOVyMjD6Xmg==
